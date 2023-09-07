@@ -1,19 +1,19 @@
 [Shopping Cart](https://shopping-cart-pedrx777.vercel.app)
 
-[README In English](./README-en.md)
+[README In Portuguese](./README.md)
 
-# 🛒 Shopping Cart with React JS
+# 🛒 Carrinho de Compras com React JS 
 
-This is a shopping cart project powered by React JS. It allows you to list products on the screen, search for products consuming the Mercado Livre API, add products and remove products from the cart.
+Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite listar produtos na tela, buscar produtos consumindo a API do Mercado Livre, adicionar produtos e remover produtos do carrinho.
 
-## 👨‍💻 Features
+## 👨‍💻 Funcionalidades
 
 - Listagem de produtos: exibe uma lista de produtos obtidos da API do Mercado Livre.
 - Busca de produtos: permite pesquisar produtos com base em palavras-chave, consumindo a API do Mercado Livre para obter os resultados.
 - Adição de produtos ao carrinho: permite adicionar produtos ao carrinho de compras.
 - Remoção de produtos do carrinho: possibilita remover produtos do carrinho de compras.
 
-## 🚀 Technologies used
+## 🚀 Tecnologias utilizadas
 
 - **React JS**: biblioteca JavaScript para construção de interfaces de usuário.
 - **HTML5**: linguagem de marcação para estruturar o conteúdo da aplicação.
