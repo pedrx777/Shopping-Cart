@@ -1,6 +1,6 @@
 [Shopping Cart](https://shopping-cart-pedrx777.vercel.app)
 
-[README In Portuguese](./README.md)
+[README In English](./README-en.md) 🇺🇸
 
 # 🛒 Carrinho de Compras com React JS 
 

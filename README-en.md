@@ -1,6 +1,6 @@
 [Shopping Cart](https://shopping-cart-pedrx777.vercel.app)
 
-[README In English](./README-en.md)
+[README In Portuguese](./README.md) 🇧🇷
 
 # 🛒 Shopping Cart with React JS
 
